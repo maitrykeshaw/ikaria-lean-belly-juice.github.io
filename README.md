@@ -1,1 +1,1 @@
-# ikaria-lean-belly-juice.github.io
+# https://ikaria-lean-belly-juice.vercel.app
