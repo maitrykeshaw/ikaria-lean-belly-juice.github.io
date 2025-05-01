@@ -1,1 +1,1 @@
-# https://ikaria-lean-belly-juice.vercel.app
+# https://ikaria-lean-belly-juice.vercel.app/
