@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Ikaria Lean Belly Juice™ [Official Website] 03 Free Bonuses",
+  "short_name":"Ikaria Lean Belly Juice™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Ikaria Lean Belly Juice is a natural and powerful weight loss drink that helps to cut extra body fat.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
